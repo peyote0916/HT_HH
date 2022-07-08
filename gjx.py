@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author : Xin He
+# @Author : Xinxin He
 # @E-mail ：2938268503@qq.com
 import sys,os,random,time,copy,math
 import arcpy
